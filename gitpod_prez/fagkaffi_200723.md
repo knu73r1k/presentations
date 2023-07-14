@@ -22,4 +22,8 @@ paginate: true
 ---
 # What has happened the last few years
 
-Transformation to cloud
+* Virtual Machines
+* Transformation to cloud
+* Kubernetes
+* Ephermeral Workspaces vs Virtual Machines
+  
