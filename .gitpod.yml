@@ -13,6 +13,16 @@ gitConfig:
     commit.gpgsign: "true"
     user.signingkey: ~/.ssh/id_rsa.pub
 
+github:
+    prebuilds:
+        master: true
+        branches: true
+        pullRequests: true
+        pullRequestsFromForks: true
+        addCheck: true
+        addComment: false
+        addBadge: true
+
 vscode:
     extensions:
         - marp-team.marp-vscode
