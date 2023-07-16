@@ -7,9 +7,11 @@ tasks:
         [[ ! -z $GP_SSH_SIGNING_PRIVKEY  ]] &&
         echo $GP_SSH_SIGNING_PRIVKEY | base64 -d > ~/.ssh/id_rsa &&
         chmod 600 ~/.ssh/id_rsa
-  - name: Git config for signing commits
-    init: git config --global gpg.format ssh && git config --global user.signingkey /home/gitpod/.ssh/id_rsa.pub && git config --global commit.gpgsign true
-    command: bash
+
+gitConfig:
+    gpg.format: ssh
+    commit.gpgsign: true
+    user.signingkey: /home/gitpod/.ssh/id_rsa.pub
 
 vscode:
     extensions:
