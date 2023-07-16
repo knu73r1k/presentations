@@ -10,8 +10,6 @@ tasks:
 
 gitConfig:
     gpg.format: ssh
-    commit.gpgsign: true
-    user.signingkey: "~/.ssh/id_rsa.pub"
 
 vscode:
     extensions:
