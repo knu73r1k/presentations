@@ -11,7 +11,7 @@ tasks:
 gitConfig:
     gpg.format: ssh
     commit.gpgsign: true
-    user.signingkey: /home/gitpod/.ssh/id_rsa.pub
+    user.signingkey: "~/.ssh/id_rsa.pub"
 
 vscode:
     extensions:
