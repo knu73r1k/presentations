@@ -20,8 +20,8 @@ github:
         pullRequests: true
         pullRequestsFromForks: true
         addCheck: true
-        addComment: false
-        addBadge: true
+        addComment: true
+        addBadge: false
 
 vscode:
     extensions:
