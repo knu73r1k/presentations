@@ -10,6 +10,7 @@ tasks:
 
 gitConfig:
     gpg.format: ssh
+    commit.gpgsign: true
 
 vscode:
     extensions:
