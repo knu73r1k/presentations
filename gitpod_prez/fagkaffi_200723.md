@@ -28,28 +28,37 @@ Thomas Dohmke (2022), CEO GitHub
 ---
 ## Learning objectives 👩🏽‍🏫
 
-* 👨🏼‍💻 Awaken your curiousity for a better way of maintaining your dev environment
-* 😈 Provoke you to transform your pet 🧙🏼‍♂️🦮 into a cattle 🐮 - aka questioning your shitty expensive tools and hardware
+* 👨🏼‍💻 Awaken curiousity for a better way of maintaining dev environments
+* 😈 Provoke us to transform your pet 🧙🏼‍♂️🦮 into a cattle 🐮 - aka questioning our sh...y expensive tools and hardware
 * 👩🏽‍💻 Demonstrate _ready to code_ from zero to fully operative
-* 🤩 Inspire to explore the topic of DevX - Developer eXperince
+* 🤩 Inspire to explore the topic of DevX - Developer eXperince and CDE - Cloud Development Enivronment
+
+---
+![bg opacity:.2](./resources/graffiti-508272_1920.jpg)
+# DevX - Developer eXperience
+<br><br>
+
+>Developer experience refers to how easy or difficult it is for a developer to perform essential tasks needed to implement a change. A positive developer experience would mean these tasks are relatively easy for the team.
 
 ---
 ![bg opacity:.2](./resources/mural-4121994_1280.jpg)
 # Cloud happened
 
-* Virtual Machines
-* Transformation to cloud
-* Containers - Docker / Kubernetes
-* Ephermeral Workspaces vs Virtual Machines
+* Virtual Machines - gained momentum 90-ties
+* Transformation to Cloud computing - (AWS 2006)
+* Containerisation - Docker / Kubernetes - (2014)
+
+"Ephermeral Workspaces vs Virtual Machines"
+
 ---
 # CDE - Cloud Development Enivronments
 
 CDEs value the following principles:
 
 * Ephemeral over long lived
-  - A fresh disposable environment for every task.
+  - A fresh disposable environment for every task
 * Reproducible over cobbled together
-  - Consistently replicable without manual intervention.
+  - Consistently replicable without manual intervention
 * Effortless over arduous
   - With minimal friction and difficulty.
 * Abundant over scarce
