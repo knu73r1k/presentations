@@ -60,7 +60,20 @@ CDEs value the following principles:
 * Reproducible over cobbled together
   - Consistently replicable without manual intervention
 * Effortless over arduous
-  - With minimal friction and difficulty.
+  - With minimal friction and difficulty
 * Abundant over scarce
-  - Instantaneously obtainable, seemingly infinite.
-  
+  - Instantaneously obtainable, seemingly infinite
+
+---
+<style scoped>
+section h1 {
+  font-size: 5.5rem;
+}
+</style>
+![bg opacity:.2](./resources/graffiti-g33e6f651e_1280.jpg)
+<!-- _class: lead -->
+# DEMO
+
+gitpod.io<br>CDE - Cloud Development Environment
+<br>
+"Pod's (containers)" hosted on a Kubernetes environment
