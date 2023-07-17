@@ -2,7 +2,7 @@
 marp: true
 size: 16:9
 theme: bouvet
-footer: Fagkaffi 20th July 23 / DevX - Ephermeral workspaces
+footer: Fagkaffi 20th July 23 - CDE (Cloud Development Environment) aka. ephermeral workspaces
 paginate: true  
 ---
 <!-- _class: lead -->
@@ -20,12 +20,13 @@ section blockquote {
   margin-top: 1rem;
 }
 </style>
-![bg opacity:.1](./resources/street-art-1183812_1280.jpg)
+![bg opacity:.3](./resources/street-art-1183812_1280.jpg)
 ><br>I think the shift to the cloud will happen at such a rapid rate, that in a few years, I predict there will be no more source code on your computers.<br><br>
 
 Thomas Dohmke (2022), CEO GitHub
 
 ---
+![bg opacity:.3](./resources/peace-g3bf9dbf34_1280.jpg)
 ## Learning objectives 👩🏽‍🏫
 
 * 👨🏼‍💻 Awaken curiousity for a better way of maintaining dev environments
