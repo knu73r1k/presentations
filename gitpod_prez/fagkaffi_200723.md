@@ -2,13 +2,13 @@
 marp: true
 size: 16:9
 theme: bouvet
-footer: Fagkaffi 20th July 23 - CDE (Cloud Development Environment) aka. ephermeral workspaces
+footer: Fagkaffi 20th July 23 - CDE (Cloud Development Environment) aka. ephemeral workspaces
 paginate: true  
 ---
 <!-- _class: lead -->
 ![bg right:42%](./resources/zabou-2290189_1280.jpg)
-# CDE<br>Always ready to code!
-
+# Always ready to code!
+###### `CDE - Cloud Development Environment`
 >Treat your infrastructure<br>as cattle 🐮, not pets 🦮
 
 ---
@@ -30,26 +30,25 @@ Thomas Dohmke (2022), CEO GitHub
 ## Learning objectives 👩🏽‍🏫
 
 * 👨🏼‍💻 Awaken curiousity for a better way of maintaining dev environments
-* 😈 Provoke us to transform your pet 🧙🏼‍♂️🦮 into a cattle 🐮 - aka questioning our sh...y expensive tools and hardware
+* 😈 Provoke us to transform our pets 🧙🏼‍♂️🦮 to cattles 🐮🐮<br> - aka questioning our _sh...y_ expensive tools and hardware
 * 👩🏽‍💻 Demonstrate _ready to code_ from zero to fully operative
-* 🤩 Inspire to explore the topic of DevX - Developer eXperince and CDE - Cloud Development Enivronment
+* 🤩 Inspire to explore DevX `Developer eXperince` and `Cloud Development Environment`
 
 ---
 ![bg opacity:.2](./resources/graffiti-508272_1920.jpg)
 # DevX - Developer eXperience
 <br><br>
 
->Developer experience refers to how easy or difficult it is for a developer to perform essential tasks needed to implement a change. A positive developer experience would mean these tasks are relatively easy for the team.
+>Developer experience refers to how easy or difficult it is for a developer to perform essential tasks needed to implement a change. <br><br>A positive developer experience would mean these tasks are relatively easy for the team.
 
 ---
 ![bg opacity:.2](./resources/mural-4121994_1280.jpg)
 # Cloud happened
 
-* Virtual Machines - gained momentum 90-ties
+* Virtual Machines - gained momentum late 90-ties
 * Transformation to Cloud computing - (AWS 2006)
 * Containerisation - Docker / Kubernetes - (2014)
-
-"Ephermeral Workspaces vs Virtual Machines"
+* Ephemeral workspaces or CDEs - Now
 
 ---
 # CDE - Cloud Development Enivronments
