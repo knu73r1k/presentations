@@ -2,7 +2,17 @@
 1. Create a new Repo (github.com/Bouvet-deler)
 2. Jump into gitpod - gitpod.io/#Bouvet-deler/democde
 3. Do "gp init" to get the .yml file - ready for configuration
-4. Add Tasks
+4. Add Flask / Python code ... /app/myapp.py
+5. Add Tasks
+6. Test
+
+Additional:
+- SSH til Workspace. (Sjekk på CBen)
+- .dotfiles
+- Via VS Code itself
+- Admin of workspaces
+- Docker files - demo Juice Shop 
+
 
 
 tasks:
@@ -27,3 +37,35 @@ vscode:
     extensions:
         - ms-python.python
         - mhutchie.git-graph
+
+
+
+from flask import Flask, request, Response, render_template, make_response
+import random
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return 'Hello World!'
+
+@app.route('/inline/')
+def inline():
+
+    # User can set their name via the name variable
+    # e.g. /?name=My Name
+    param_name = request.args.get("name", default=None, type=str)
+    if not param_name:
+        param_name = 'Anonymous'
+
+    # The my_html variable conatins the HTML to return from the request
+    my_html = """
+    <html>
+    <body>
+        Hello there {name}
+    </body>
+    </html
+    """
+    my_html = my_html.replace('{name}',param_name)
+
+    return make_response(my_html, 200)
