@@ -1,0 +1,29 @@
+
+1. Create a new Repo (github.com/Bouvet-deler)
+2. Jump into gitpod - gitpod.io/#Bouvet-deler/democde
+3. Do "gp init" to get the .yml file - ready for configuration
+4. Add Tasks
+
+
+tasks:
+  - name: Python environment
+    command: |
+      apt-get install python3-flask -y
+      pip3 install flask
+      python -m venv venv
+      source ./venv/bin/activate
+      export FLASK_APP=./app/myapp.py
+      export FLASK_ENV=development
+      flask --debug run
+
+ports:
+  - name: flask-app
+    description: The flask webapp 
+    port: 5000
+    visibility: private
+    onOpen: open-preview
+
+vscode:
+    extensions:
+        - ms-python.python
+        - mhutchie.git-graph
