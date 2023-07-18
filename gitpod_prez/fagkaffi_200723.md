@@ -2,7 +2,7 @@
 marp: true
 size: 16:9
 theme: bouvet
-footer: Fagkaffi 20th July 23 - CDE (Cloud Development Environment) aka. ephemeral workspaces
+footer: Fagkaffi 20th July 23 - CDE (Cloud Development Environment) / Ephemeral workspaces
 paginate: true  
 ---
 <!-- _class: lead -->
@@ -48,21 +48,36 @@ Thomas Dohmke (2022), CEO GitHub
 * Virtual Machines - gained momentum late 90-ties
 * Transformation to Cloud computing - (AWS 2006)
 * Containerisation - Docker / Kubernetes - (2014)
-* Ephemeral workspaces or CDEs - Now
+* Ephemeral workspaces or CDEs - Now!
 
 ---
+![bg opacity:.1](./resources/street-art-2044085_1280.jpg)
+# What is CDE
+<br><br>
+
+>Cloud development environments are on-demand and pre-configured with all tools, libraries and dependencies required to be ready-to-code.
+
+---
+![bg opacity:.1](./resources/street-art-465304_1280.jpg)
 # CDE - Cloud Development Enivronments
 
 CDEs value the following principles:
 
-* Ephemeral over long lived
+* **Ephemeral** over _long lived_
   - A fresh disposable environment for every task
-* Reproducible over cobbled together
+* **Reproducible** over _cobbled together_
   - Consistently replicable without manual intervention
-* Effortless over arduous
+* **Effortless** over _arduous_
   - With minimal friction and difficulty
-* Abundant over scarce
-  - Instantaneously obtainable, seemingly infinite
+
+---
+![bg opacity:.2](./resources/face-2089059_1280.jpg)
+# Vision
+<br>
+
+Select project,
+~~check dependencies, checkout branch, viewreadme.txt, install tools, run build, run test,~~
+start coding.
 
 ---
 <style scoped>
