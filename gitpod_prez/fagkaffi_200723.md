@@ -59,9 +59,7 @@ Thomas Dohmke (2022), CEO GitHub
 
 ---
 ![bg opacity:.1](./resources/street-art-465304_1280.jpg)
-# CDE - Cloud Development Enivronments
-
-CDEs value the following principles:
+# Cloud Development Enivronments - principles
 
 * **Ephemeral** over _long lived_
   - A fresh disposable environment for every task
@@ -74,9 +72,18 @@ CDEs value the following principles:
 ![bg opacity:.2](./resources/face-2089059_1280.jpg)
 # Vision
 <br>
+From :
+
+Select project, check dependencies, checkout branch, view readme.txt, install tools, run build, run test, start coding.
+
+---
+![bg opacity:.2](./resources/face-2089059_1280.jpg)
+# Vision
+<br>
+To :
 
 Select project,
-~~check dependencies, checkout branch, viewreadme.txt, install tools, run build, run test,~~
+~~check dependencies, checkout branch, view readme.txt, install tools, run build, run test,~~
 start coding.
 
 ---
