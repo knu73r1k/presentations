@@ -1,10 +1,14 @@
 
-1. Create a new Repo (github.com/Bouvet-deler)
+1. Create a new Repo (github.com/new)
 2. Jump into gitpod - gitpod.io/#Bouvet-deler/democde
 3. Do "gp init" to get the .yml file - ready for configuration
-4. Add Flask / Python code ... /app/myapp.py
-5. Add Tasks
-6. Test
+4. Lag default react app: npx create-react-app .
+5. Legg til tasks
+
+|
+ npm install
+ npm start dev
+
 
 Additional:
 - SSH til Workspace. (Sjekk på CBen)

@@ -98,4 +98,4 @@ section h1 {
 
 gitpod.io<br>CDE - Cloud Development Environment
 <br>
-"Pod's (containers)" hosted on a Kubernetes environment
+"Pod's = containers" hosted on a Kubernetes environment
