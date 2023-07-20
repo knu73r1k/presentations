@@ -12,6 +12,16 @@ paginate: true
 >Treat your infrastructure<br>as cattle 🐮, not pets 🦮
 
 ---
+![bg opacity:.3](./resources/peace-g3bf9dbf34_1280.jpg)
+## Learning objectives 👩🏽‍🏫
+
+* 👨🏼‍💻 Awaken curiousity for a better way of maintaining dev environments
+* 😈 Provoke us to transform 🧙🏼‍♂️ our pets 🦮 to cattles 🐮
+* 👩🏽‍💻 Demo CDE - _ready to code_ from zero to fully operative
+* 🤩 Inspire to explore
+  - `Developer eXperince` / `Cloud Development Environment`
+
+---
 <style scoped>
 section blockquote {
   font-size: 1.5rem;
@@ -24,16 +34,6 @@ section blockquote {
 ><br>I think the shift to the cloud will happen at such a rapid rate, that in a few years, I predict there will be no more source code on your computers.<br><br>
 
 Thomas Dohmke (2022), CEO GitHub
-
----
-![bg opacity:.3](./resources/peace-g3bf9dbf34_1280.jpg)
-## Learning objectives 👩🏽‍🏫
-
-* 👨🏼‍💻 Awaken curiousity for a better way of maintaining dev environments
-* 😈 Provoke us to transform 🧙🏼‍♂️ our pets 🦮 to cattles 🐮
-* 👩🏽‍💻 Demo CDE - _ready to code_ from zero to fully operative
-* 🤩 Inspire to explore
-  - `Developer eXperince` / `Cloud Development Environment`
 
 ---
 ![bg opacity:.2](./resources/graffiti-508272_1920.jpg)
