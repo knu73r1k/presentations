@@ -30,9 +30,10 @@ Thomas Dohmke (2022), CEO GitHub
 ## Learning objectives 👩🏽‍🏫
 
 * 👨🏼‍💻 Awaken curiousity for a better way of maintaining dev environments
-* 😈 Provoke us to transform our pets 🧙🏼‍♂️🦮 to cattles 🐮🐮<br> - aka questioning our _sh...y_ expensive tools and hardware
-* 👩🏽‍💻 Demonstrate _ready to code_ from zero to fully operative
-* 🤩 Inspire to explore DevX `Developer eXperince` and `Cloud Development Environment`
+* 😈 Provoke us to transform 🧙🏼‍♂️ our pets 🦮 to cattles 🐮
+* 👩🏽‍💻 Demo CDE - _ready to code_ from zero to fully operative
+* 🤩 Inspire to explore
+  - `Developer eXperince` / `Cloud Development Environment`
 
 ---
 ![bg opacity:.2](./resources/graffiti-508272_1920.jpg)
