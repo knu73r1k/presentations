@@ -13,14 +13,10 @@
   
 section {
   font-family: 'Inter';
-  color: #F9EAD4; 
+  color: #F9EAD4;
+  background: #11133C;
 }
  
-section {
-    background: #11133C;
-    color: #F9EAD4;
-  }
-
 section.lead h1 {
     font-size: 1.5rem;
   }
