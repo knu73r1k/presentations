@@ -10,13 +10,26 @@
  */
  @import 'gaia'; /* inherit 'gaia' theme */
  @import url('https://fonts.googleapis.com/css?family=Inter:400,500,700');
-  
+
 section {
   font-family: 'Inter';
   color: #F9EAD4;
   background: #11133C;
 }
- 
+
+section header {
+  content: url('./resources/bouvet_logo_offwhite.png');
+  transform: rotate(90deg);
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  height: 2.2rem;
+  left: 90%;
+  top: 7%;
+  position: absolute;
+  z-index: 999;
+  
+}
+
 section.lead h1 {
     font-size: 1.5rem;
   }

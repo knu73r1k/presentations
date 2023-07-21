@@ -4,9 +4,12 @@ size: 16:9
 theme: bouvet
 footer: Fagkaffi 20th July 23 - CDE (Cloud Development Environment) / Ephemeral workspaces
 paginate: true  
+html: true
 ---
 <!-- _class: lead -->
 ![bg right:42%](./resources/zabou-2290189_1280.jpg)
+<div class="bouvetlogo"></div>
+
 # Always ready to code!
 ###### `CDE - Cloud Development Environment`
 >Treat your infrastructure<br>as cattle 🐮, not pets 🦮
@@ -20,6 +23,7 @@ paginate: true
 * 👩🏽‍💻 Demo CDE - _ready to code_ from zero to fully operative
 * 🤩 Inspire to explore
   - `Developer eXperince` / `Cloud Development Environment`
+
 
 ---
 <style scoped>
