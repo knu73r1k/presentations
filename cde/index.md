@@ -7,7 +7,7 @@ paginate: true
 html: true
 ---
 <!-- _class: lead -->
-![bg right:42%](./resources/zabou-2290189_1280.jpg)
+![bg right:42%](./resources/children_umbrella_ukrain_c.jpg)
 
 # Always ready to code!
 ###### `CDE - Cloud Development Environment`
