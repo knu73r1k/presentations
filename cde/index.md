@@ -52,7 +52,7 @@ Thomas Dohmke (2022), CEO GitHub
 * Virtual Machines - gained momentum late 90-ties
 * Transformation to Cloud computing - (AWS 2006)
 * Containerisation - Docker / Kubernetes - (2014)
-* Ephemeral workspaces or CDEs - Now!
+* Ephemeral (kortvarig) workspaces or CDEs - Now!
 
 ---
 ![bg opacity:.1](./resources/street-art-2044085_1280.jpg)
@@ -65,11 +65,11 @@ Thomas Dohmke (2022), CEO GitHub
 ![bg opacity:.1](./resources/street-art-465304_1280.jpg)
 # Cloud Development Enivronments - principles
 
-* **Ephemeral** over _long lived_
+* **Ephemeral** (kortvarig) over _long lived_
   - A fresh disposable environment for every task
 * **Reproducible** over _cobbled together_
   - Consistently replicable without manual intervention
-* **Effortless** over _arduous_
+* **Effortless** over _arduous_ (vanskelig)
   - With minimal friction and difficulty
 
 ---
