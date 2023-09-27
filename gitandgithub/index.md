@@ -13,7 +13,7 @@ html: true
 ###### `Git and GitHub - 101`
 
 ---
-![bg opacity:.3](../cde/resources/peace-g3bf9dbf34_1280.jpg)
+![bg opacity:.2](../cde/resources/peace-g3bf9dbf34_1280.jpg)
 ## `git`
 
 * `git` is a program/binary
@@ -30,7 +30,7 @@ section blockquote {
   margin-top: 1rem;
 }
 </style>
-![bg opacity:.3](../cde/resources/street-art-1183812_1280.jpg)
+![bg opacity:.2](../cde/resources/street-art-1183812_1280.jpg)
 
 ## `GitHub`
 
@@ -41,3 +41,9 @@ section blockquote {
 * Free as in Gratis to use for open source projects
 
 ---
+## Acronyms
+
+- Repository - a _catalogue_ of files and folders
+- Pull - pulling files from repository to your local device
+- Push - pushing changes from your device to your repository
+- 
