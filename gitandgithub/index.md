@@ -16,10 +16,11 @@ html: true
 ## `git`
 
 * `git` is a program / a binary
-* Distributed version control system
+* Initial creator - Linus Torvalds
 * Development 
   * Sunday 3rd April 2005
   * Self-hosted Thursday 7th April 2005
+* Distributed version control system
 
 ![bg right:30% w:360](./resources/git-logo-2color.svg)
 
