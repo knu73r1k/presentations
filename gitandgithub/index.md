@@ -9,41 +9,54 @@ html: true
 <!-- _class: lead -->
 ![bg right:42% opacity:.8](../cde/resources/children_umbrella_ukrain_c.jpg)
 
-# Collaboration and `pure` text files
+# Collaboration
 ###### `Git and GitHub - 101`
 
 ---
-![bg opacity:.2](../cde/resources/peace-g3bf9dbf34_1280.jpg)
 ## `git`
 
-* `git` is a program/binary
+* `git` is a program / a binary
 * Distributed version control system
-* Start Sunday 3rd April 2005
-* Self-hosted Thursday 7th April 2005
+* Development 
+  * Sunday 3rd April 2005
+  * Self-hosted Thursday 7th April 2005
+
+![bg right:30% w:360](./resources/git-logo-2color.svg)
 
 ---
-<style scoped>
-section blockquote {
-  font-size: 1.5rem;
-  text-align: center;
-  vertical-align: center;
-  margin-top: 1rem;
-}
-</style>
-![bg opacity:.2](../cde/resources/street-art-1183812_1280.jpg)
-
 ## `GitHub`
 
-* Collaboration space - a hub for git hosted files
-* Adding features such as issues, projects, pull requests etc
-* Bought by Microsoft for 80Mill$ in 20xx
+* Collaboration space - host for git controlled files
+* Added features such as
+  * Issue tracking, projects, pull requests, comments, reviews etc
+* Aquired by Microsoft for 7.5B USD in 2018
 * Defacto place where open source repositories are stored
-* Free as in Gratis to use for open source projects
+
+![bg right:30% w:400](./resources/github.svg)
 
 ---
-## Acronyms
+## Language of Git / GitHub
 
-- Repository - a _catalogue_ of files and folders
-- Pull - pulling files from repository to your local device
-- Push - pushing changes from your device to your repository
-- 
+- `Repository` - a _catalogue_ of files and folders
+- `Clone` - Clone a repository to local device
+- `Pull ⬇` - pull latest files from repository to your local device
+- `Push️ ️️️⬆️`️ - pushing local changes to repository
+- `Merge ⛙` - merge changes from one branch to another
+
+---
+
+# Git branch - example
+
+![bg w:800 opacity:.9](./resources/gitbranch.jpg)
+
+---
+
+![bg opacity:.9](./resources/gitbranch_ex2.jpg)
+
+---
+
+# Credits
+
+- Street art from various artists - Pixabay - https://pixabay.com/
+- Git logo from official Git site - https://git-scm.com/downloads/logos
+- GitHub logo from official GitHub site - https://github.com/logos
